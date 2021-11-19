@@ -114,7 +114,7 @@ router.delete("/:id", async (req, res) => {
         id: req.params.id,
       },
     });
-    if (!productData[0]) {
+    if (!productData) {
       res.status(404).json("No such product available!");
       return;
     }
