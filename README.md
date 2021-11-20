@@ -62,7 +62,7 @@ THEN I am able to successfully create, update, and delete data in my database
     This application is convered under the MIT License.
     
 
-    ## [Walkthrough video](https://drive.google.com/file/d/1VekP3HOarsdL135u5UL5HZomkRtaCib9/view?usp=sharing)
+    ## [Walkthrough video](https://drive.google.com/file/d/1hoxa2f2BH0lcEajkGP88Q7QhkQ8WqXPH/view?usp=sharing)
 
 
     Copyright © 2021 Chaitra Srinivasamurthy 
