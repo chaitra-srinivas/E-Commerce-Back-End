@@ -40,7 +40,7 @@ THEN I am able to successfully create, update, and delete data in my database
 - [Walkthrough video](#walkthrough-video)
 
     ## Installation
-   - Fork repository.
+   - Clone repository.
    - Should have access to Visual Studio and MySql
    - Run npm install to install packages/dependencies (Express, mysql2, sequelize).
    - Install Insomnia core to test the APIs
